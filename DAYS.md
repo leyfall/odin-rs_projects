@@ -53,3 +53,10 @@ I haven't full grasp whats all of this about but as you can see I wanna try and 
 
 Im starting to day 1 in leetcode tomorrow, but all good today no need to rush.
 
+Day 6 (12.23.25):
+
+Not so productive shit or anything
+        Gone through immersing myself on what to do to my Pocketbook 
+        Koreader failure, win, failure
+        Been Doing what i have to do to finish this.
+
