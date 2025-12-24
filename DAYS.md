@@ -61,6 +61,7 @@ Gone through immersing myself on what to do to my Pocketbook
               Been Doing what i have to do to finish this.
 
 Day 7 (12.24.25):
+
 Learning CTCI for leetcode problem--- will continue after i goo and yeah its christmas eve HAPPY CHRISTMAS DAY!!! see you tomorrow folks.
 
 Reading the html for begineer the easy way and stuffs.
