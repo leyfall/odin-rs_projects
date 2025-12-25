@@ -72,7 +72,6 @@ On odin right now tackle this ff:
 
 - How Does the Web Work?
 - The Unix Shell - learning the shell, navigate,and work 
--
 
 
 
