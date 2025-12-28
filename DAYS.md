@@ -90,5 +90,7 @@ Day 10 (12.27.25): Late study a lot happened and being **lazy**
 Day 11 (12.28.25): Late night study---lazy.
 
 - Done reading HTML for refreshing mind for 5 mins.
+- Setting up Git and Github (github is already done, just updating git) 5mins
+- 
 
 
