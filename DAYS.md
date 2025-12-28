@@ -87,5 +87,6 @@ Day 10 (12.27.25): Late study a lot happened and being **lazy**
 
 -Reading HTML to refresh my mind for 5 minutes.
 
+Day 11 (12.28.25): Late night study---lazy.
 
 
