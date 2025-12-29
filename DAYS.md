@@ -94,4 +94,7 @@ Day 11 (12.28.25): Late night study---lazy.
 - Step 3: Let us know how it went!
          -It went good although i did not know or why i did not put the ssh key before but anyway all success now. (Small steps is much better compared to none.)
 
+Day 12 (12.29.25): Early a bit but could lapse 50mins for this (hopefully)
+
+
 
