@@ -108,6 +108,8 @@ Day 13 (12.30.25): OH GODS i never thought i did so much yesterday and now im de
 
 - Just reading the HTTP origin for now.
 - I just realized that it was git push!!! for the git commit i think. Lets test it.
+- Still confused about Git but fighting.
+- Reading HTTP to the brim that makes my brain on fire.
 
 
 
