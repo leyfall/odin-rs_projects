@@ -4,7 +4,7 @@ _Coding journey and history._
 
 Putting all of the stuffs I'll learn for everyday.
 
-studying everyday till i learn all the foundamental.
+studying everyday till I ~~learn all the foundamental~~ somebody ask me "Hey can I use that?" or "Let me pay/play that"
 
 Day 1 (12.18.25): 
 
