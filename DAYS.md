@@ -147,4 +147,4 @@ Day 19 - 01.05.26
 
 Day 20 - 01.06.26
 
-- 
+- Commit message in efficient way.
