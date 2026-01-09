@@ -159,3 +159,7 @@ Day 21 - 01.07.26
 Day 22 - 01.08.26
 
 - still no progress. I humbly been lazy.
+
+Day 23 - 01.09.26
+
+- none code related: But got done work study today.
