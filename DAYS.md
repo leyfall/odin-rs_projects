@@ -166,4 +166,4 @@ Day 23 - 01.09.26
 
 Day 24 - 01.10.26
 
-- 
+- initiating a new C++ project
