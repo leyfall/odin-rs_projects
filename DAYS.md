@@ -176,3 +176,5 @@ Day 25 - 01.11.26
 Day 26 - 01.12.26 - I'm terribly sorry for you my dear ("Future") if i was a bit late, but its better to be nothing.
 
 - On introduction of c++
+
+Day 27 and 28 - to be continued
