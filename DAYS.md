@@ -178,3 +178,7 @@ Day 26 - 01.12.26 - I'm terribly sorry for you my dear ("Future") if i was a bit
 - On introduction of c++
 
 Day 27 and 28 - to be continued
+
+01.13.26 - 01.14.26
+
+- 
