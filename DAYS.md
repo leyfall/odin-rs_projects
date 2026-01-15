@@ -183,3 +183,7 @@ Day 27 and 28 - to be continued
 
 - ON VERGE OF DYING TO LAZY idunno what to do anymore can i still  keepp going even tho its been crushed upon?
 - ive been neglecting anything. like im not idk.
+
+01.15.26
+
+- a lot happend but not one of them is code.
