@@ -187,3 +187,7 @@ Day 27 and 28 - to be continued
 01.15.26
 
 - a lot happend but not one of them is code.
+
+01.16.26
+
+- I thought i did my coding but i guess its in my dreams pala.
