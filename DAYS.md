@@ -219,3 +219,7 @@ Day 36 - 01.22.26
 Day 37 - 01.23.26
 
 - Reading a coding book technical thing.
+
+Day 38 - 01.24.26
+
+- wake up not so bad, reading the kinnu test.
