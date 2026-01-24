@@ -215,3 +215,7 @@ Day 36 - 01.22.26
 
 - in loop for the Kinnu Backend Developement.
 - Reading the Computer history encyclo and for also crossword puzzle.
+
+Day 37 - 01.23.26
+
+- Reading a coding book technical thing.
