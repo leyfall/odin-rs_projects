@@ -240,3 +240,4 @@ Day 41 - 01.27.26
 Day 42 - 01.28.26
 
 - Library practice code, reading initial commit.
+- Dying, I'm lost
