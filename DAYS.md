@@ -243,3 +243,4 @@ Day 42 - 01.28.26
 - Dying, I'm lost
 - I forgot, cant focus anymore knowing that im in the library help!!!!!!!
 - Doing the tutorial thing is making my head go boom!
+- I mean busy flirting around lmao
