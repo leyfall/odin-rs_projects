@@ -236,3 +236,7 @@ Day 40 - 01.26.26
 Day 41 - 01.27.26
 
 - 今日は一日中何もせずにだらだら過ごしました。
+
+Day 42 - 01.28.26
+
+- Library practice code, reading initial commit.
