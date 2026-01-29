@@ -251,3 +251,10 @@ Day 43 - 01.29.26
 - Appraised behold the fig of my own that will surely rot
 -  bug is any kind of programming error that prevents the program from operating correctly.
 -  debugging (removing bugs), updates to cope with changes in the environment (e.g. to run on a new OS version), enhancements (minor changes to improve usability or capability), or internal improvements (to increase reliability or maintainability)1.
+-  #include <iostream>
+
+int main()
+{
+    std::cout << "Here is some text.";
+    return 0;
+}
