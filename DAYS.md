@@ -266,4 +266,8 @@ Day 44 - 01.30.26
 Day 45 - 01.31.26
 
 - Starting again
-- At the freecodecamp.org starting back to zero in Python.
+- At the freecodecamp.org starting back to zero in Python.'
+
+Day 46 - 02.01.26
+
+- HEllo im in Blender right now.
