@@ -386,5 +386,7 @@ Day 50 - 02.05.26
 
 - loving the life of coding. Still studying python.
 
+Day 51 - 02.06.26
+
 
 
