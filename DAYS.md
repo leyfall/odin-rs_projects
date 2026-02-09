@@ -405,6 +405,7 @@ Day 54 - 02.09.26
 
 - studying for a bit and minimal interaction to Vim
 - Studying python in tecnical books
+- figuring out how LazyVim work on progress 26%
 
 
 
