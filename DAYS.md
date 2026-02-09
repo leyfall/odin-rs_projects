@@ -401,6 +401,10 @@ Day 53 - 02.08.26
 - Free from VScode now yey!!!
 - A string is a sequence of characters surrounded by either single or double quotation marks.
 
+Day 54 - 02.09.26
+
+- studying for a bit and minimal interaction to Vim
+
 
 
 
