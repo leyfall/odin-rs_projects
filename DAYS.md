@@ -407,6 +407,9 @@ Day 54 - 02.09.26
 - Studying python in tecnical books
 - figuring out how LazyVim work on progress 26%
 
+Day 55 - 02.10.26
+
+- Lazy reading the python f-string theory
 
 
 
