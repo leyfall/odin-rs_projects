@@ -411,5 +411,10 @@ Day 55 - 02.10.26
 
 - Lazy reading the python f-string theory
 
+Day 56 - 02.11.26
+
+- I wanna stop????
+
+
 
 
