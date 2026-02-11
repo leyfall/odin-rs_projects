@@ -419,6 +419,7 @@ Day 56 - 02.11.26
 - Number augmented, mathematical operations both float and integer.
 - <img width="1083" height="485" alt="image" src="https://github.com/user-attachments/assets/7bce57fb-f7bf-4a98-bb6b-c837ad426b3a" />
        this is the operations, used in Boolean
+- What Are Truthy and Falsy Values, and How Do Boolean Operators and Short-Circuiting Work?
 
 
 
