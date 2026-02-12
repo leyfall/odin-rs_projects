@@ -421,6 +421,10 @@ Day 56 - 02.11.26
        this is the operations, used in Boolean
 - What Are Truthy and Falsy Values, and How Do Boolean Operators and Short-Circuiting Work?
 
+Day 57 - 02.12.26
+
+-
+
 
 
 
