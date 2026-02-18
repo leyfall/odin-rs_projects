@@ -570,6 +570,10 @@ print(bool(True)) # True
 print(bool(1)) # True
 print(bool('Hello')) # True
 
+- What is the AI literacy gap?
+
+AI literacy is the combination of knowledge, skills, and attitudes that enables people to understand and work with AI systems in an informed way. 
+
 
 
 
