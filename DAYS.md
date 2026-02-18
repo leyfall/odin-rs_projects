@@ -562,7 +562,14 @@ has_ticket = True
 
 Day 63 - 02.18.26
 
-- 
+- print(bool(False)) # False
+print(bool(0))  # False
+print(bool('')) # False
+
+print(bool(True)) # True
+print(bool(1)) # True
+print(bool('Hello')) # True
+
 
 
 
