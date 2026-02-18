@@ -574,6 +574,8 @@ print(bool('Hello')) # True
 
 AI literacy is the combination of knowledge, skills, and attitudes that enables people to understand and work with AI systems in an informed way. 
 
+- Reading the Ai Literacy Gap
+
 
 
 
